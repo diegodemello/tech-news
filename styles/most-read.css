@@ -1,0 +1,19 @@
+#mread {
+    margin-block: 80px;
+}
+
+.heading {
+    display: flex;
+    border: solid 1px var(--stroke-color);
+    border-inline: none;
+    border-bottom: none;
+    padding-top: 12px;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.heading .most {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
